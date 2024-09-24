@@ -1,2 +1,2 @@
 # software
-its my repo
+its my repository
